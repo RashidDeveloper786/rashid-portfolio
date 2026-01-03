@@ -5,7 +5,7 @@ const Skills = () => {
   const skillCategories = [
     {
       category: 'Programming Languages',
-      skills: ['Java', 'SQL']
+      skills: ['Java', 'SQL','C', 'C++']
     },
     {
       category: 'Backend Technologies',
