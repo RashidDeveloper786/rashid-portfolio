@@ -4,7 +4,7 @@ import './Hero.css';
 const Hero = () => {
   const handleDownloadResume = () => {
     // In production, replace with actual resume PDF URL
-    const resumeUrl = 'https://drive.google.com/file/d/1AK5rWUfLFMVT8IJjhPMg9t1Nb2tXrf0E/view?usp=drive_link';
+    const resumeUrl = 'https://drive.google.com/file/d/1gW7OEcZoHC_1bMrDudnfj2_3OVX1X_vE/view?usp=drive_linkhttps://drive.google.com/file/d/1AK5rWUfLFMVT8IJjhPMg9t1Nb2tXrf0E/view?usp=drive_link';
     const link = document.createElement('a');
     link.href = resumeUrl;
     link.download = 'Rashid_Ansari_Resume.pdf';
